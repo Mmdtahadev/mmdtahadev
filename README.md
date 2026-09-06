@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:334155&height=180&section=header&text=Hi,%20I'm%20Taha&fontSize=40&fontColor=ffffff)
 
-### Backend dev learner | Interested in CPU architecture & processor design ✨
+### Backend Developer Learner | Interested in CPU Architecture ✨
 
 🍃 I'm currently learning backend development to eventually build my own startup, alongside a long-term goal of studying computer hardware engineering.
 
